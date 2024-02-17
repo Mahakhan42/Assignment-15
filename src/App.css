@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    margin-top: 4%;
+  background-color: rgba(73, 124, 179, 0.456);
+}
+.back{
+    background-color: rgb(67, 154, 225);
+    padding: 100px;
+    border: 10px solid rgb(19, 99, 139);
+    border-radius: 30px;
+}
+input{
+    width: 400px;
+    padding:8px ;
+}
+button{
+    padding: 10px;
+    background-color:rgb(19, 99, 139);
+    color: #fff;
+    border: none;
+}
+.container{
+ height: 500%;
+    background-color: rgb(67, 154, 225);
+    padding: 100px;
+    border: 10px solid rgb(19, 99, 139);
+    border-radius: 30px;
+    
+}
+.bg-info{
+    border: 10px solid rgb(19, 99, 139);
+    color:white;
+    background-color: rgb(67, 154, 225) !important; 
+}
+
